@@ -80,7 +80,7 @@ Currently pursuing **Executive MBA at IIM Indore** | **CCBA® Exam Prep in Progr
 
 | Project | Tools | Link |
 |-------|-------|------|
-| Diabetes Nutrition Dashboard | Power BI, DAX, CSV | [View Repo](#)(https://github.com/shubh6AM/Diabetes-Nutrition-Glycemic-Control-Dashboard) |
+| Diabetes Nutrition Dashboard | Power BI, DAX, CSV | [View Repo] (#)(https://github.com/shubh6AM/Diabetes-Nutrition-Glycemic-Control-Dashboard) |
 
 ---
 
