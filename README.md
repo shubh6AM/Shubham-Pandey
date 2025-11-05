@@ -1,8 +1,8 @@
 # Shubham Pandey  
 **Aspiring Business Analyst | Data-Driven Problem Solver**
 
-[![Resume PDF](file:///D:/Docs/CV/Shubham_Pandey_Business_Analyst_Resume.pdf)  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shubham-pandey-171b49142/))  
+[![Resume PDF]([Shubham_Pandey_Business_Analyst_Resume.pdf](https://github.com/user-attachments/files/23348670/Shubham_Pandey_Business_Analyst_Resume.pdf))  
+[![LinkedIn](https://www.linkedin.com/in/shubham-pandey-171b49142/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green?style=flat&logo=gmail)](mailto:sp39116@gmail.com)
 
 ---
