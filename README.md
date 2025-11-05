@@ -31,7 +31,7 @@ Currently pursuing **Executive MBA at IIM Indore** | **CCBA® Exam Prep in Progr
 | Category | Skills |
 |--------|--------|
 | **Core BA Skills** | Requirement Gathering • BRD • RFP • Process Mapping • Stakeholder Management |
-| **Tools** | Power BI • MS Excel (Advanced) • MS Word • PowerPoint • draw.io • WordPress |
+| **Tools** | Power BI • MS Excel (Advanced) • MS Word • PowerPoint • draw.io • WordPress • Balsamiq |
 | **Analytics** | Google Analytics • MySQL • Email Campaign Tools |
 | **Methodologies** | Agile (Familiar) • Jira (Beginner) • Trello • Business Process Flows |
 
