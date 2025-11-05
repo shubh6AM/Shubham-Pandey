@@ -22,7 +22,7 @@ Currently pursuing **Executive MBA at IIM Indore** | **CCBA® Exam Prep in Progr
 - **Led stakeholder communication** via email campaigns, presentations, and reports  
 - **Conducted market & competitor research** to drive strategy  
 - **Built interactive dashboards** using **Power BI** for digital analytics  
-- **Optimized processes** with clear documentation and workflow diagrams (`draw.io`)  
+- **Optimized processes** with clear documentation and workflow diagrams (`draw.io`, 'Balsamiq')  
 
 ---
 
